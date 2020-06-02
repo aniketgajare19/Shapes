@@ -10,6 +10,7 @@ Output : Static hostname: aniket-pc <br />
          Operating System: Ubuntu 18.04.3 LTS <br />
          Kernel: Linux 4.15.0-101-generic <br />
          Architecture: x86-64 <br />
+         <br />
 Command : java -version <br />
 Output : openjdk version "1.8.0_252" <br />
          OpenJDK Runtime Environment (build 1.8.0_252-8u252-b09-1~18.04-b09) <br />
