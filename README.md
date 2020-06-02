@@ -1,5 +1,6 @@
-# Shapes
+### SETUP
 This repository contains implemantaion of java class Rectangle.java and its testing java class TestRectangle.java.<br />
+##OS_INFORMATION
 Command : hostnamectl <br />
 Output : Static hostname: aniket-pc <br />
          Pretty hostname: aniket_pc <br />
@@ -11,6 +12,7 @@ Output : Static hostname: aniket-pc <br />
          Kernel: Linux 4.15.0-101-generic <br />
          Architecture: x86-64 <br />
          <br />
+##JAVA_INFORMATION
 Command : java -version <br />
 Output : openjdk version "1.8.0_252" <br />
          OpenJDK Runtime Environment (build 1.8.0_252-8u252-b09-1~18.04-b09) <br />
